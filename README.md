@@ -6,7 +6,7 @@
 
 ## <samp>&#9654; PLAYER</samp>
 
-AI Product Engineer in Melbourne. I work on a multi-tenant SaaS platform where LLM features have to behave like real product surfaces rather than demos: schemas that hold up, latency you can live with, and interfaces that do not need explaining.
+AI Product Engineer in Melbourne. I work on a multi-tenant SaaS platform where LLM features have to behave like real product surfaces rather than demos. Building conversational and other agentic workflows to automate tasks and make tedious work more efficient.
 
 Before that, a Masters in Information Technology majoring in Internet of Things. That is why half of what I build has a React frontend and the other half has a radio module soldered to it.
 
@@ -30,7 +30,7 @@ Schema and API design through to frontend, containers and deployment. Firmware w
 
 <samp><b>QUESTS</b></samp>
 
-Open to web apps, developer tooling, and anything involving smart devices or mesh networking.
+Open to web apps, developer tooling, and anything involving smart/embedded devices or networking.
 
 </td>
 </tr>
@@ -62,13 +62,11 @@ Open to web apps, developer tooling, and anything involving smart devices or mes
 
 <samp><b>WORLD 1-1</b></samp>
 
-### [BrickPress](https://github.com/AhmadTChaudhry/BrickPress)
+### [RationAI](https://github.com/AhmadTChaudhry/RationAI)
 
-Turns photos of LEGO builds into high quality, print ready posters. Upload the thing you spent a weekend on, get something worth putting on a wall.
+A desk display that shows your Claude and ChatGPT quota in real time. Firmware on a LilyGO T-Display-S3 talks to a small Mac server over WiFi, and the mascot waves at you when Claude is sitting there blocked, waiting for a reply.
 
-`Next.js` `TypeScript` `Convex` `Vercel`
-
-<a href="https://brick-press.vercel.app"><samp>play &#9654;</samp></a>
+`C++` `ESP32-S3` `PlatformIO` `Python` `Bonjour`
 
 </td>
 <td width="50%" valign="top">
@@ -88,22 +86,26 @@ Secure messaging between ESP32 nodes over LoRa radio, with no infrastructure in 
 
 <samp><b>WORLD 2-1</b></samp>
 
-### [Dotted](https://github.com/AhmadTChaudhry/Dotted-Habit-Tracker)
+### [Tapestry](https://github.com/AhmadTChaudhry/Tapestry)
 
-A deliberately minimal habit tracker. Log occurrences, read a month at a glance as coloured dots, define your own categories. No account, no sync, no nagging.
+Turns a photograph into a tapestry crochet stitch chart you can follow row by row while your hands are busy, and previews how it will look in a different yarn colourway before you buy the wool.
 
-`React` `TypeScript` `Vite` `Tailwind` `shadcn/ui`
+`Prototype` `Canvas` `Mobile first`
+
+<a href="https://stitches-tapestry.vercel.app"><samp>play &#9654;</samp></a>
 
 </td>
 <td width="50%" valign="top">
 
 <samp><b>WORLD 2-2</b></samp>
 
-### [IoT Home Automation](https://github.com/AhmadTChaudhry/IoT-Home-Automation)
+### [Minutely](https://github.com/AhmadTChaudhry/Minutely-Meeting-Debrief)
 
-End to end home automation covering both gas and electrical appliances, with a web dashboard for monitoring and control.
+Paste in a meeting transcript, get back an executive summary, action items with owners and deadlines, and the risks nobody wrote down. Read it as a table or work it as a kanban board.
 
-`Node.js` `EJS` `IoT` `Embedded`
+`Next.js` `n8n` `Gemini`
+
+<a href="https://minutely-six.vercel.app"><samp>play &#9654;</samp></a>
 
 </td>
 </tr>
@@ -112,20 +114,24 @@ End to end home automation covering both gas and electrical appliances, with a w
 
 <samp><b>WORLD 3-1</b></samp>
 
-### [Smart Commute](https://github.com/AhmadTChaudhry/smart-commute-kubernetes)
+### [Vantage](https://github.com/AhmadTChaudhry/Vantage-Agent-Architect)
 
-A commute data pipeline split into services: an API tier, a processing tier and Node-RED, containerised and orchestrated with Kubernetes manifests.
+Turns a strategy document into an execution ready agent workforce blueprint: initiatives, agent roles, and how they all relate. Upload a PDF or paste the text, read the architecture back as a map, export it as JSON.
 
-`JavaScript` `Docker` `Kubernetes` `Node-RED`
+`Next.js 14` `TypeScript` `n8n` `pdf2json`
+
+<a href="https://vantage-agent-psi.vercel.app"><samp>play &#9654;</samp></a>
 
 </td>
 <td width="50%" valign="top">
 
-<samp><b>BONUS STAGE</b></samp>
+<samp><b>WORLD 3-2</b></samp>
 
-### [Everything else](https://github.com/AhmadTChaudhry?tab=repositories)
+### [Aurora](https://github.com/AhmadTChaudhry/Aurora)
 
-Thirty or so repositories of IoT coursework, web experiments and small tools built to scratch an itch. Worth a dig.
+A redesign of WLED, the addressable LED firmware for ESP32. Single strips through to HUB75 matrices, with audio reactive effects, per segment control, and Home Assistant, Art-Net and E1.31 out of the box.
+
+`C++` `ESP32` `WLED` `Art-Net` `E1.31`
 
 </td>
 </tr>
@@ -137,6 +143,8 @@ Thirty or so repositories of IoT coursework, web experiments and small tools bui
 
 <div align="center">
 
+<a href="https://ahmadtc.com"><img src="https://img.shields.io/badge/AHMADTC.COM-221F3A?style=for-the-badge&logo=react&logoColor=E8B84B&labelColor=221F3A" alt="Portfolio" /></a>
+&nbsp;
 <a href="https://www.linkedin.com/in/ahmadtc/"><img src="https://img.shields.io/badge/LINKEDIN-221F3A?style=for-the-badge&logo=linkedin&logoColor=E8B84B&labelColor=221F3A" alt="LinkedIn" /></a>
 &nbsp;
 <a href="mailto:ahmadtc17@gmail.com"><img src="https://img.shields.io/badge/EMAIL-221F3A?style=for-the-badge&logo=gmail&logoColor=E8B84B&labelColor=221F3A" alt="Email" /></a>
